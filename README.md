@@ -8,3 +8,5 @@ _19/05/2023 Nick Evans:_ Hi, I'm Nick! Can't wait to get everyone contributing t
 processing machinery!
 
 _19/05/2023 Jordon Masters:_ Hi, This is Jordon and I am not good at coding. Keep adding
+
+_20/02/2024 Miles Hilton:_ Hey, it's Miles! Looking forward to contributing to accessible fiber processing machinery
